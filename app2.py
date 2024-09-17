@@ -231,7 +231,7 @@ st.markdown("""
 # Enhanced footer
 st.markdown("""
     <footer>
-    <p>Developed by Theodoros Eleftheriou | <a href="https://github.com/yourusername">GitHub</a> | <a href="https://linkedin.com/in/yourusername">LinkedIn</a></p>
+    <p>Developed by Theodoros Eleftheriou | <a href="https://github.com/theod9">GitHub</a></p>
     <p>© 2024 Software Defects Prediction App. All rights reserved.</p>
     </footer>
     """, unsafe_allow_html=True)

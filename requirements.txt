@@ -5,6 +5,6 @@ scikit-learn
 dill
 xgboost
 lightgbm
-catboost
+catboost==1.2.7
 streamlit
 -e .
