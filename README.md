@@ -4,6 +4,9 @@ This repository is based on my submission to the Software Defect Prediction comp
 It was a binary classification task and the goal was to predict defects in C programs based on various attributes of the code. Submissions were evaluated based on the area under the ROC curve (AUC) comparing the predicted probabilities to the observed targets.  
 
 Target column:
-- `Target column`
+- `defects`, the objective is to predict the probability of positive defects
+
+Feature columns:
+-  
 
 [Streamlit App](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)
