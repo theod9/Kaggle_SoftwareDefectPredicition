@@ -225,7 +225,7 @@ st.header("About Software Defect Prediction")
 st.markdown("""
     Software defect prediction is a crucial aspect of quality assurance in software development. 
     It helps identify potential issues early in the development process, saving time and resources.
-    This model uses various code metrics to estimate the likelihood of defects in a given piece of software.
+    This model uses various code metrics to estimate the likelihood of defects in a given module.
 """)
 
 # Enhanced footer
