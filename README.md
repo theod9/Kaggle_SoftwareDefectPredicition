@@ -2,14 +2,15 @@
 
 This repository is based on my submission to the Software Defect Prediction competition, where I achieved 1st place among 1704 participants.  
 
-*Goal:* A binary classification task and the goal was to predict the probability of positive defects in C programs based on various attributes of the code.  
+**Objective:** A binary classification task and the goal was to predict the probability of positive defects in C programs based on various attributes of the code.  
 
-Evaluation: Submissions were evaluated based on the area under the ROC curve (AUC) comparing the predicted probabilities to the observed targets.  
+**Evaluation Metric:** Submissions were evaluated based on the area under the ROC curve (AUC) comparing the predicted probabilities to the observed targets.  
 
-Target column:
+**Dataset Overview:**
+Target variable:
 - `defects`, Binary variable indicating whether the module has defects (1 for yes, 0 for no).
 
-Feature columns:
+Feature variables:
 - `loc`: Lines of Code - Total number of lines of code in the software module
 - `v(g)`: Cyclomatic Complexity - Measures the number of linearly independent paths through a program's source code
 - `ev(g)`: Essential Complexity - Reflects the number of decision points that are strictly necessary in a program module.
