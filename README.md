@@ -38,7 +38,7 @@ Feature variables:
 Explore the model predictions and data visualizations through our interactive Streamlit app [Launch](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)
 
 <p align="center">
-    <img src="images/software_defect_prediction.png" alt="Software Defect Prediction" width="400" />
+    <img src="images/Streamlit_App_Screenshot.png" alt="Software Defect Prediction" width="400" />
     <br>
     <em>Figure: Software Defect Prediction Diagram</em>
 </p>
