@@ -6,7 +6,7 @@ This repository is based on my submission to the Software Defect Prediction comp
 
 **Evaluation Metric:** Submissions were evaluated based on the area under the ROC curve (AUC) comparing the predicted probabilities to the observed targets.  
 
-**Dataset Overview:**
+**Dataset Overview:**  
 Target variable:
 - `defects`, Binary variable indicating whether the module has defects (1 for yes, 0 for no).
 
