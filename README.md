@@ -1,6 +1,6 @@
 ## [Kaggle - Software Defect Prediction](https://www.kaggle.com/competitions/playground-series-s3e23/overview)
 
-This repository is based on my submission to the Software Defect Prediction competition, achieving 1st place among 1,704 participating teams.  
+This repository is based on my submission to the Software Defect Prediction competition, achieving 1st place among 1,702 participating teams.  
 
 **Objective:** Develop a binary classification model to predict the probability of positive defects in C programming modules based on various code attributes. By accurately identifying modules prone to defects, developers can prioritize testing and maintenance efforts more effectively
 
