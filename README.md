@@ -4,7 +4,7 @@ This repository is based on my submission to the Software Defect Prediction comp
 
 **Objective:** Develop a binary classification model to predict the probability of positive defects in C programming modules based on various code attributes. By accurately identifying modules prone to defects, developers can prioritize testing and maintenance efforts more effectively
 
-**Evaluation Metric:** Model predictions are evaluated based on the area under the ROC curve (AUC-ROC) comparing the predicted probabilities to the observed targets.  
+**Evaluation Metric:** Model predictions are evaluated based on the Area Under the ROC Curve (AUC-ROC) comparing the predicted probabilities to the observed targets.  
 
 **Dataset Overview:**  
 Target variable:
@@ -33,4 +33,9 @@ Feature variables:
 - `total_Opnd`: Total Operands - The total count of operands in the code.
 - `branchCount`: Branch Count - Number of branches in the code; often correlates with the cyclomatic complexity.
 
-[Streamlit App](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)
+
+**Streamlit Application:**  
+
+Explore the model predictions and data visualizations through our interactive Streamlit app
+
+[Launch the Streamlit App](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)
