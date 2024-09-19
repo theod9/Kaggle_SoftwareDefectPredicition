@@ -8,7 +8,7 @@ This repository is based on my submission to the Software Defect Prediction comp
 
 **Dataset Overview:**  
 Target variable:
-- `defects`, Binary variable indicating whether the module has defects (1 for yes, 0 for no).
+- `defects`: Binary variable indicating whether the module has defects.
 
 Feature variables:
 - `loc`: Lines of Code - Total number of lines of code in the software module
