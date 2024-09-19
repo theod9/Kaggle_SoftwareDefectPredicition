@@ -4,7 +4,7 @@ This repository is based on my submission to the Software Defect Prediction comp
 
 **Objective:** Develop a binary classification model to predict the probability of positive defects in C programming modules based on various code attributes. By accurately identifying modules prone to defects, developers can prioritize testing and maintenance efforts more effectively
 
-**Evaluation Metric:** Model predictions are evaluated based on the Area Under the ROC Curve (AUC-ROC) comparing the predicted probabilities to the observed targets.  
+**Evaluation Metric:** Model predictions are evaluated based on the **Area Under the ROC Curve (AUC-ROC)** comparing the predicted probabilities to the observed targets.  
 
 **Dataset Overview:**  
 Target variable:
