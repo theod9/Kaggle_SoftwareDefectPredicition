@@ -35,7 +35,7 @@ Feature variables:
 
 
 **Streamlit Application:**  
-Explore the model predictions and data visualizations through our interactive Streamlit app. [(Launch)](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)  
+Explore the model predictions through our interactive Streamlit app. [(Launch)](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)  
 
   
 
