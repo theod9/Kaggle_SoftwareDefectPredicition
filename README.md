@@ -36,7 +36,7 @@ Feature variables:
 **Approach:** For defect prediction, an ensemble of diverse machine learning models was utilized, each contributing to the final prediction through a weighted voting mechanism. The models were selected based on their performance during repeated cross-validation, with hyperparameters optimized using the **Optuna** library. While the ensemble was primarily composed of gradient boosting models, a decision tree-based classifier and a logistic regression model with **Nystroem Kernel Approximation** were also included to capture different aspects of the data. A weighted **Voting Classifier** from **Scikit-learn** was employed to aggregate the predictions from each model, with weights assigned based on their individual performance. This ensemble approach improved the overall predictive accuracy while mitigating the risk of overfitting to any single model's biases
 
 **Streamlit Application:**  
-Explore the model predictions through our interactive Streamlit app. [(Launch)](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)  
+Explore the model predictions through the interactive Streamlit app. [(Launch)](https://theod9-kaggle-softwaredefectpredicition-app2-tqtlny.streamlit.app/)  
 
   
 
